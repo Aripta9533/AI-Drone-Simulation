@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mkuser608/AI-indoor-drone-sim.git
+   git clone https://github.com/Aripta9533/AI-Drone-Simulation.git
    cd indoor_autonomous_drone_simulation
 2. Build the docker image:
    ```bash
